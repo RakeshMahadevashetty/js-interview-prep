@@ -284,3 +284,4 @@ function convertNestedObjIntoSingleObj() {
 console.log({
   convertNestedObjIntoSingleObj: convertNestedObjIntoSingleObj(),
 });
+
